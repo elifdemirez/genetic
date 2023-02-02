@@ -1,0 +1,8 @@
+C:\Users\ynsdm\source\repos\gendizimi\gendizimi\obj\Debug\gendizimi.csproj.AssemblyReference.cache
+C:\Users\ynsdm\source\repos\gendizimi\gendizimi\obj\Debug\gendizimi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ynsdm\source\repos\gendizimi\gendizimi\obj\Debug\gendizimi.csproj.CoreCompileInputs.cache
+C:\Users\ynsdm\source\repos\gendizimi\gendizimi\bin\Debug\gendizimi.exe.config
+C:\Users\ynsdm\source\repos\gendizimi\gendizimi\bin\Debug\gendizimi.exe
+C:\Users\ynsdm\source\repos\gendizimi\gendizimi\bin\Debug\gendizimi.pdb
+C:\Users\ynsdm\source\repos\gendizimi\gendizimi\obj\Debug\gendizimi.exe
+C:\Users\ynsdm\source\repos\gendizimi\gendizimi\obj\Debug\gendizimi.pdb
